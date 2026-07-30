@@ -71,7 +71,11 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🔥 Contribution Streak & Daily Activity
+
+![Hussain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HussainDalkhaniya389&theme=dark)
+
+---
 
 ### 📊 GitHub Activity & Stats
 
@@ -82,5 +86,5 @@
 ---
 
 <p align="center">
-  ⚡ <i>Driven by technology innovation, clean code, and building real-world products.</i>
+  ⚡ <i>Driven by continuous learning, daily code contributions, and building real-world products.</i>
 </p>
