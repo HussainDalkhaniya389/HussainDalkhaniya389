@@ -73,7 +73,7 @@
 
 ### 🔥 Contribution Streak & Daily Activity
 
-![Hussain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HussainDalkhaniya389&theme=dark)
+![Hussain's Streak](https://streak-stats.demolab.com/?user=HussainDalkhaniya389&theme=dark)
 
 ---
 
