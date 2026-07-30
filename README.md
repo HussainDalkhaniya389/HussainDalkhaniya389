@@ -3,8 +3,8 @@
 **Full Stack Engineer & AI/ML Undergraduate** | *Next.js • React.js • Golang • Supabase • Blockchain*  
 📍 **Mumbai, India**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-dalkhaniya-b49a62257/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio8787.netlify.app/)
 
 ---
 
@@ -13,6 +13,7 @@
 - 📜 **Diploma in Computer Engineering** | SBMP (*2022 – 2025*) — **93%**
 - 💼 **Experience:** Former Full Stack Engineer Intern at **Ignito Corporation** & Software Developer Intern at **Senkusha Solution LLP**
 - 💡 **Interests:** High-performance web applications, FinTech systems, scalable backend architectures, and decentralized technology.
+- 🌐 **Links:** [LinkedIn](https://www.linkedin.com/in/hussain-dalkhaniya-b49a62257/) | [Portfolio Website](https://portfolio8787.netlify.app/)
 
 ---
 
