@@ -56,7 +56,7 @@
 #### 🎫 [TicketVault](https://github.com/HussainDalkhaniya389)
 > **Blockchain-Based Event Ticketing Platform**
 - **Tech Stack:** Solidity, Python (Flask), React.js, Firebase, Ganache, Razorpay
-- Built a decentralized ticketing ecosystem to eliminate ticket fraud and unauthorized resales.
+- Built a decentralized ticketing ecosystem to eliminate ticket fraud and unauthorized resales of tickets.
 - Deployed smart contracts for transparent ticket ownership, automated cancellations, secure identity verification, and QR entry authentication.
 
 #### 📦 [Inventory Intelligence Platform](https://github.com/HussainDalkhaniya389)
