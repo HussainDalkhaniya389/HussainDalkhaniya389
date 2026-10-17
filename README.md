@@ -1,6 +1,6 @@
 # Hi there, I'm Hussain Dalkhaniya 👋
 
-**Full Stack Engineer & AI/ML Undergraduate** | *Next.js • React.js • Golang • Supabase • Blockchain*  
+**Full Stack Engineer & AI/ML Undergraduate** | *Next.js • React.js • Python • Golang • Supabase • Blockchain*  
 📍 **Mumbai, India**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-dalkhaniya-b49a62257/)
