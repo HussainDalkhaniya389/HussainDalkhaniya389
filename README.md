@@ -1,7 +1,7 @@
 # Hi there, I'm Hussain Dalkhaniya 👋
 
 **Full Stack Engineer & AI/ML Undergraduate** | *Next.js • React.js • Golang • Supabase • Blockchain*  
-📍 **Mumbai, India**  
+📍 **Mumbai, India**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-dalkhaniya-b49a62257/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio8787.netlify.app/)
@@ -47,25 +47,38 @@
 
 ### 🚀 Featured Projects
 
+#### 🪙 [GoldAlpha — Gold Price Prediction System](https://goldalpha.netlify.app/)
+> **Machine Learning-Based Indian Gold Price Forecasting** — [Live Demo](https://goldalpha.netlify.app/)
+
+- **Tech Stack:** Python, Machine Learning, React, TypeScript, Vite, Supabase, GitHub Actions
+- Built an automated forecasting system that predicts Indian MCX gold prices 30 days ahead by combining global gold prices (XAUUSD), USD/INR exchange rates, market fundamentals, and market-regime detection.
+- Engineered a modular forecasting pipeline with automated data ingestion, feature engineering, model inference, and Supabase-backed forecast publishing.
+- Evaluated forecasts using walk-forward validation, baseline comparisons, and ablation analysis to measure the contribution of machine learning.
+- **Backtesting results:** Reported 2.66% MAPE compared with 4.52% for a persistence baseline across 1,150+ historical 30-day forecasts. Historical performance does not guarantee future accuracy.
+
 #### 📈 [Finexa Edge](https://finexa-edge.netlify.app/)
 > **Financial Analytics & Trading System** — [Live Demo](https://finexa-edge.netlify.app/)
+
 - **Tech Stack:** Python, Financial APIs, Data Pipelines
 - Engineered a financial trading and data analysis engine for quantitative tracking and automated market signals.
 - Built modular data-fetching workflows focused on market analytics and reliability.
 
 #### 🎫 [TicketVault](https://github.com/HussainDalkhaniya389)
 > **Blockchain-Based Event Ticketing Platform**
+
 - **Tech Stack:** Solidity, Python (Flask), React.js, Firebase, Ganache, Razorpay
 - Built a decentralized ticketing ecosystem to eliminate ticket fraud and unauthorized resales of tickets.
 - Deployed smart contracts for transparent ticket ownership, automated cancellations, secure identity verification, and QR entry authentication.
 
 #### 📦 [Inventory Intelligence Platform](https://github.com/HussainDalkhaniya389)
 > **Real-Time Operational Inventory Management**
+
 - **Tech Stack:** Next.js, Supabase, Netlify
 - Developed real-time analytics dashboards for tracking stock movement, inventory levels, and operational KPIs across growing datasets.
 
 #### 📊 [Business Operations Dashboard](https://github.com/HussainDalkhaniya389)
 > **Enterprise Internal Process Automation**
+
 - **Tech Stack:** React.js, Golang, Supabase
 - Created responsive role-aware management dashboards powered by high-performance Golang backend APIs and real-time database workflows.
 
