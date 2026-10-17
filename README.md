@@ -91,7 +91,7 @@
 
 #### 📈 [Finexa Edge](https://finexa-edge.netlify.app/)
 
-**Financial Analytics & Trading System** · [Live Demo](https://finexa-edge.netlify.app/)
+**Financial Analytics & Stock Recommendation System** · [Live Demo](https://finexa-edge.netlify.app/)
 
 - **Tech Stack:** Python, Financial Data Sources, Automated Data Pipelines, Supabase, React
 - Built a financial analytics engine to screen market opportunities and generate automated market signals.
