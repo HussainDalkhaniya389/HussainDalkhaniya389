@@ -152,5 +152,4 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HussainDalkhaniya389&show_icons=true&hide_rank=true&hide=issues&theme=github_dark&include_all_commits=true" alt="GitHub overview stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussainDalkhaniya389&layout=compact&theme=github_dark&hide=html,css" alt="Most used programming languages" />
 </p>
